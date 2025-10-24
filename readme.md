@@ -21,7 +21,10 @@ Seu roteiro de viagem personalizado com IA!
 
 <p align="justify">
 A Next Level Week (NLW) é um evento exclusivo e gratuito promovido pela Rocketseat, oferecendo uma experiência prática com desafios e muito código para o ensino de novas tecnologias.
-<img src=".github/nlw-journey-logo.png" alt="Next Level Week" width="80%"/>
+
+<p align="center">
+  <img src=".github/nlw-journey-logo.png" alt="Next Level Week" width="80%"/>
+</p>
 
 <br/><br/>
 Este projeto, desenvolvido durante a trilha de IA, é uma API de "agente de viagem". A API realiza pesquisas na internet para criar um roteiro de viagem customizável para o usuário, oferecendo uma experiência única e personalizada.
@@ -128,30 +131,29 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto está sob a licença MIT.
 
 ## 🤵 Autor
+<div align="center">
+<img src=https://images.weserv.nl/?url=avatars.githubusercontent.com/u/55859290?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d>
+<h1>Marlon Akio Tochiro</h1>
+<strong>Student Developer ⓒ 2023</strong>
+<br/>
+<br/>
 
-\<div align="center"\>
-\<img src=https://images.weserv.nl/?url=avatars.githubusercontent.com/u/55859290?v=4\&h=100\&w=100\&fit=cover\&mask=circle\&maxage=7d\>
-\<h1\>Marlon Akio Tochiro\</h1\>
-\<strong\>Student Developer ⓒ 2023\</strong\>
-<br>
-<br>
+<a href="https://www.linkedin.com/in/marlon-akio-ba1763134/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-\<a href="https://www.linkedin.com/in/marlon-akio-ba1763134/" target="\_blank"\>
-\<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white"/\>
-\</a\>
+<a href="https://github.com/marlonakio" target="_blank">
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-\<a href="https://github.com/marlonakio" target="\_blank"\>
-\<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white"/\>
-\</a\>
+<a href="mailto:marlon.akto@gmail.com" target="_blank">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-\<a href="mailto:marlon.akto@gmail.com" target="\_blank"\>
-\<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white" /\>
-\</a\>
+<a href="https://wa.me/5511977769829?text=Ol%C3%A1%21" target="_blank">
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-\<a href="https://wa.me/5511977769829?text=Ol%C3%A1%21" target="\_blank"\>
-\<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white"/\>
-\</a\>
-
-<br>
-<br>
-&lt;/div&gt;
+<br/>
+<br/>
+</div>
