@@ -23,7 +23,7 @@ Seu roteiro de viagem personalizado com IA!
 A Next Level Week (NLW) é um evento exclusivo e gratuito promovido pela Rocketseat, oferecendo uma experiência prática com desafios e muito código para o ensino de novas tecnologias.
 
 <p align="center">
-  <img src=".github/nlw-journey-logo.png" alt="Next Level Week" width="80%"/>
+  <img src=".github/nlw-journey-logo.png" alt="Next Level Week" width="60%"/>
 </p>
 
 <br/><br/>
