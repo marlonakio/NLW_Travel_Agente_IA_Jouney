@@ -47,7 +47,7 @@ Este projeto é uma API que atua como um agente de viagens personalizado. Ao rec
 
 Para utilizar a API, envie uma requisição POST para o endpoint do seu Load Balancer, conforme o exemplo abaixo:
 
-**Endpoint:** `http://http://seu-load-balancer-dns.<regiao>.elb.amazonaws.com`
+**Endpoint:** `http://seu-load-balancer-dns.<regiao>.elb.amazonaws.com`
 
 **Método:** `POST`
 
@@ -61,7 +61,7 @@ Para utilizar a API, envie uma requisição POST para o endpoint do seu Load Bal
 **Exemplo com cURL:**
 
 ```bash
-curl -X POST "[http://http://seu-load-balancer-dns.<regiao>.elb.amazonaws.com](http://http://seu-load-balancer-dns.<regiao>.elb.amazonaws.com)" \
+curl -X POST "[http://seu-load-balancer-dns.<regiao>.elb.amazonaws.com](http://seu-load-balancer-dns.<regiao>.elb.amazonaws.com)" \
 -H "Content-Type: application/json" \
 -d '{
   "question": "Vou viajar para Londres entre 25 e 26 de outubro de 2025. Quero que faça um roteiro de viagem para mim com eventos que irão ocorrer na data da viagem e com o preço de passagens de São Paulo para Londres"
